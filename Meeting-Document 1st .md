@@ -8,14 +8,16 @@
  
 #### What should our team start doing?
    1. Assign different roles to team member
-   2. Start to generate ideas how to improve the website
-   3. Watch the movie "I care a lot" on Tuesday
+   2. Have team contract and aggrement with all teammembers.
+   4. Start to generate ideas how to improve the website
+   5. Watch the movie "I care a lot" on Tuesday
 
 #### What should our team stop doing?
    1. So far no
 
 #### What should our team continue doing?
    1. Continue be a positive team.  
+   2. Perform team contract. 
    
 #### What are the position in our team?
    1. Creative Director : Whole Team
@@ -23,3 +25,4 @@
    3. Researcher : Whole Team
    4. Lead Reasercher: Lorenzo Topacio, Sean Wu
    5. Documenter: Fengdi Liu
+   6. Liason: Kevin
