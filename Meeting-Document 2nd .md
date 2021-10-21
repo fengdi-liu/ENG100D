@@ -30,4 +30,4 @@
    3. Schedule (SEAN)
    4. Team Bios (Everyone fill their part)
    5. Stakeholder Analysis (Fengdi )
-   6. Edition ()
+   6. Edition (Gianna)
